@@ -17,6 +17,8 @@
  <br>
  
   ### Pra conhecer mais sobre mim 😊: 
+  
+  <img align="center" alt="programming" height="150" width="220" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
  
 <div> 
   <a href="https://www.youtube.com/channel/UCh9rwu9ppi6SXea1haUBf2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
