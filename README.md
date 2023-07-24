@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de K1fernandes 😎✌️
+## Kauã Fernandes
 
  <div>
    <a href="https://github.com/K1fernandes">
