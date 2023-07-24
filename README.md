@@ -22,10 +22,7 @@
   <img align="center" alt="programming" height="150" width="240" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCh9rwu9ppi6SXea1haUBf2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/k1fernandes_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSHxwLXZVRdGsbRxBMhGVFMTgXNfZrddjwLSPZwWqXHgQXwWbcRqdRXGPCjkPGVdplGtvtdC" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/K1fernandes/K1fernandes/blob/output/github-contribution-grid-snake.svg)
+  <a href = "https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSHxwLXZVRdGsbRxBMhGVFMTgXNfZrddjwLSPZwWqXHgQXwWbcRqdRXGPCjkPGVdplGtvtdC](https://mail.google.com/mail/u/3/#inbox?compose=GTvVlcRzCpXCPrfcsFvHkbncJcRfgKdJvNzcHDsZChxlFcKSqxcwMLbPKXDBVMJJVwXZJLLkLXjPB)" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
