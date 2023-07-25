@@ -1,4 +1,4 @@
-<h1>Kauã Fernandes</h1>
+## Kauã Fernandes
 <p>Desenvolvedor Backend</p>
 
  <div>
@@ -12,6 +12,15 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Portugol" height="30" width="40" src="https://dgadelha.github.io/Portugol-Webstudio/assets/logo.svg">
 
+</div>
+
+<div style="display: flex;">
+  <div>
+   <p>Itapevi, SP <br> (11) 99485-0925 <br> kauafernandes.smelo@gmail.com</p>
+  </div>
+  <div>
+   <h3>Kauã Fernandes</h3>
+  </div>
 </div>
  
  <br>
