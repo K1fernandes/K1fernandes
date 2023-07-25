@@ -1,4 +1,5 @@
-## Kauã Fernandes <p>Desenvolvedor Backend</p>
+## Kauã Fernandes
+<p>Desenvolvedor Backend</p>
 
  <div>
    <a href="https://github.com/K1fernandes">
