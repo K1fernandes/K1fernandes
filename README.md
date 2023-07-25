@@ -14,15 +14,6 @@
 
 </div>
 
-<div style="display: flex;">
-  <div>
-   <p>Itapevi, SP <br> (11) 99485-0925 <br> kauafernandes.smelo@gmail.com</p>
-  </div>
-  <div>
-   <h3>Kauã Fernandes</h3>
-  </div>
-</div>
- 
  <br>
  
   ### Descubra: 
